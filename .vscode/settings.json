@@ -1,7 +1,0 @@
-{
-    "cmake.configureOnOpen": true,
-    "clangd.path": "/usr/local/clangd_19.1.2/bin/clangd",
-    "clangd.arguments": [
-        "--query-driver=/usr/bin/g++*"
-    ]
-}

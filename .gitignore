@@ -35,3 +35,10 @@
 # history reason
 ThirdParty/
 *.cmake.in
+
+.git/
+.cache/
+.vscode/
+
+out/
+
