@@ -42,3 +42,4 @@ ThirdParty/
 
 out/
 
+CMakeUserPresets.json
