@@ -1,9 +1,0 @@
-E:/learn/cplusplus/out/CMakeFiles/cplusplus.dir
-E:/learn/cplusplus/out/CMakeFiles/edit_cache.dir
-E:/learn/cplusplus/out/CMakeFiles/rebuild_cache.dir
-E:/learn/cplusplus/out/sgi-stl/CMakeFiles/sgi-stl.dir
-E:/learn/cplusplus/out/sgi-stl/CMakeFiles/edit_cache.dir
-E:/learn/cplusplus/out/sgi-stl/CMakeFiles/rebuild_cache.dir
-E:/learn/cplusplus/out/misc/CMakeFiles/sanitizer-test.dir
-E:/learn/cplusplus/out/misc/CMakeFiles/edit_cache.dir
-E:/learn/cplusplus/out/misc/CMakeFiles/rebuild_cache.dir
