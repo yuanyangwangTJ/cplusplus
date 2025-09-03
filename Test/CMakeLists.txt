@@ -8,6 +8,6 @@ foreach (test_source ${TEST_SOURCES})
 
     # Add the test target separately and as part of "make check-tests".
     add_executable(${test_name} ${test_source})
+    target_link_libraries(${test_name} PRIVATE benchmark::benchmark GTest::gtest_main GTest::gmock)
+    # gtest_discover_tests(${test_name})
 endforeach ()
-
-target_link_libraries(json-test PRIVATE nlohmann_json::nlohmann_json)
